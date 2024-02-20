@@ -1,0 +1,35 @@
+/* Body styling */
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+/*Styling for all divs*/
+div {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    padding: 10px;
+}
+
+/* Styling for all the main buttons */
+button{
+    padding: 30px;
+    border: solid 2px #0e0e0e;
+    text-decoration: none;
+    color: #0e0e0e;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    border-radius: 200px;
+    margin: auto;
+    box-shadow: 0 9px #999;
+}
+
+/*Styling for the number input*/
+input{
+    padding: 10px;
+    border-radius: 50px;
+}
+
+/*Styling for the select image options*/
+select{
+    padding: 10px;
+    border-radius: 50px;
+}
